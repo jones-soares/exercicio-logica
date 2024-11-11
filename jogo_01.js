@@ -1,7 +1,7 @@
 
 // Pede o nome do herói e a quantida xp
 const nomeHeroi = "Jones";
-const xp=10001
+const xp=9001
 
 // Define os níveis de acordo com o XP
 let nivel;
